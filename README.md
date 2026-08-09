@@ -1,6 +1,6 @@
-# ❤️ Heart Disease Prediction System
+#  Heart Disease Prediction System
 
-## 📌 Overview
+##  Overview
 
 The Heart Disease Prediction System is a Machine Learning-based healthcare application designed to predict the likelihood of cardiovascular disease using patient medical parameters.
 
@@ -8,7 +8,7 @@ The project uses the UCI Heart Disease Dataset and compares multiple machine lea
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Predict the risk of heart disease using patient health records.
 * Compare the performance of multiple machine learning algorithms.
@@ -18,7 +18,7 @@ The project uses the UCI Heart Disease Dataset and compares multiple machine lea
 
 ---
 
-## 🗂 Dataset
+##  Dataset
 
 **Dataset:** UCI Heart Disease Dataset
 
@@ -43,7 +43,7 @@ The project uses the UCI Heart Disease Dataset and compares multiple machine lea
 
 ---
 
-## ⚙️ Project Workflow
+##  Project Workflow
 
 1. Data Collection
 2. Data Cleaning & Preprocessing
@@ -58,7 +58,7 @@ The project uses the UCI Heart Disease Dataset and compares multiple machine lea
 
 ---
 
-## 🤖 Machine Learning Models
+##  Machine Learning Models
 
 The following models were implemented and compared:
 
@@ -77,7 +77,7 @@ The following models were implemented and compared:
 
 ---
 
-## 📊 Performance Metrics
+##  Performance Metrics
 
 ### Random Forest Results
 
@@ -91,7 +91,7 @@ The following models were implemented and compared:
 
 ---
 
-## 🚀 Features
+##  Features
 
 ### Machine Learning
 
@@ -111,7 +111,7 @@ The following models were implemented and compared:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Programming Language
 
@@ -135,7 +135,7 @@ The following models were implemented and compared:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 heart_disease_prediction/
@@ -169,7 +169,7 @@ heart_disease_prediction/
 
 ---
 
-## ▶️ Installation & Execution
+##  Installation & Execution
 
 ### Clone Repository
 
@@ -192,7 +192,7 @@ streamlit run app.py
 
 ---
 
-## 📈 Future Enhancements
+##  Future Enhancements
 
 * SHAP-based Explainable AI
 * PDF Health Report Generation
@@ -203,7 +203,7 @@ streamlit run app.py
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Vidhi Goyal**
 
@@ -213,7 +213,7 @@ GitHub: https://github.com/vidhigoyal28
 
 ---
 
-## ⭐ Project Highlights
+##  Project Highlights
 
 * End-to-end Machine Learning Pipeline
 * 90.16% Prediction Accuracy
